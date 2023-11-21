@@ -1,5 +1,4 @@
-**Calculator**
-****
+# Calculator
 **Overview**
 
 This repository contains the source code for a simple calculator web application. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
