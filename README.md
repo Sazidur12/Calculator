@@ -5,7 +5,6 @@ This repository contains the source code for a simple calculator web application
 
 ![Web capture_21-11-2023_22237_ (1)](https://github.com/Sazidur12/Calculator/assets/149562280/102d52c6-f454-4989-a4f6-dffa2efb4f50)
 
-
 **Features**
 
 User-Friendly Interface: The calculator has a clean and user-friendly interface, making it easy for users to perform calculations.
@@ -21,7 +20,6 @@ JavaScript: The calculator's functionality is implemented using JavaScript, enab
 **How to Use**
 
 Clone the repository to your local machine.
-git clone https://github.com/your-username/calculator-app.git
 Open the index.html file in your preferred web browser.
 Use the calculator by clicking on the buttons for numbers and operators.
 The real-time evaluation will be displayed in the designated areas on the calculator.
