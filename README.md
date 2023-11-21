@@ -36,7 +36,3 @@ If you'd like to contribute to the project, feel free to submit a pull request. 
 **Licence**
 
 This calculator app is open-source and available under the MIT License.
-
-**Author**
-
-Sazidur Rahman https://github.com/Sazidur12
